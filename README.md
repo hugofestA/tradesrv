@@ -1,5 +1,4 @@
-# tradesrv
-##Version Alpha 0.0
+# tradesrv v0.0A
 Trading game server.
 ###Done functions
 - especially nothing
